@@ -1,1 +1,19 @@
+<h1> Teams Rams play in 2021 </h1>
+<body>
+<div class="grid-container">
+  <div class="grid-item">Arizona x2</div>
+  <div class="grid-item">Green Bay</div>
+  <div class="grid-item">Houston</div>  
+  <div class="grid-item">Indianapolis</div>
+  <div class="grid-item">San Francisco x2</div>
+  <div class="grid-item">Seattle x2</div>  
+  <div class="grid-item">Chicago</div>
+  <div class="grid-item">Detroit</div>
+  <div class="grid-item">Jacksonville</div>
+    <div class="grid-item">Tennessee</div>  
+      <div class="grid-item">Tampa Bay</div>  
+        <div class="grid-item">Minnesota</div>  
+          <div class="grid-item">Baltimore</div>  
+</div>
 
+</body>
