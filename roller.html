@@ -57,7 +57,41 @@ tr:nth-child(even) {
   </tr>
 </table>
   
+<div>
+  <h1> This is for button to scroll </h1> </div>
+<button onclick="topfunction()" id="topbutton"> TOP </button>
+div {
+  background-color: blue;
+  padding-bottom: 2100px;
+}
 
+#topbutton {
+  position: fixed;
+  bottom: 2%;
+  right: 4%;
+  fontsize: 30px;
+  backgroud-color: red;
+  padding: 20px;
+  border: orange;
+  }
+#topbutton:hover {
+  border: dashed 7px blue;
+  border-radius: 5px;
+}
+function topFunction() {
+  document.body.scrollTop = 0;
+document.documentElement.scrollTop = 0; 
+  }
+window.onscroll = function) {hidefunction()};
+
+function hidefunction() {
+ if(document.body.scrollTop > 50 || document.documentElement.scrollTop . 50) document.getElementById("topbutton").style.display = "block";
+  else {    document.getElementById("topbutton").style.display = "none";
+
+    
+  }
+
+}
 
 
 
