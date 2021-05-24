@@ -1,10 +1,10 @@
 .autocomplete {
-  background-color: pink;
+  background-color: black;
 }
 
 #myInput {
-  width: 80%;
-  background-color: purple; 
+  width: 60%;
+  background-color: blue; 
 }
 
 #entireDiv {
